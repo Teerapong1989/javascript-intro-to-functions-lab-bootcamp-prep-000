@@ -19,7 +19,7 @@ function logWhisper(string){
 
 string = "Hello"
 function sayHiToGrandma(string){
-  if (string === string.toLowerCase())
+  if (string === string.toLowerCase()) return
   
 }
 
